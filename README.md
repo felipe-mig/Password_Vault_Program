@@ -1,6 +1,6 @@
 ## 📄 Description
 
-🔐 This is a Password Vault project built in Python using the tkinter and pyperclip libraries. Users can add websites, usernames, and passwords. 
+🔐 This is a Password Vault program built in Python using the tkinter and pyperclip libraries. Users can add websites, usernames, and passwords. 
 Once the 'Add' button is clicked, the information is securely saved to a .txt file, as the program works entirely offline.
 
 Additionally, the program includes a secure password generator. 
