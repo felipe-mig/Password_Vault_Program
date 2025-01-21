@@ -11,8 +11,6 @@ If a required input is left blank, an error message will notify the user.
 Once the process is complete, the inputs are automatically cleared, preparing the program for the next use.
 
 * 🚫🤖 No AI code 
-* 📁 Local content
-
 
 ## 📷 Screenshots
 
