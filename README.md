@@ -21,7 +21,6 @@ Once the process is complete, the inputs are automatically cleared, preparing th
 
 ![Screenshot2](screenshots/Screenshot2.webp)
 
-![Screenshot4](screenshots/Screenshot4.webp)
 
 
 
